@@ -29,4 +29,4 @@ A modern, responsive product showcase website built with Next.js and Tailwind CS
    Navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 5. **Live Demo Link**
-   Hedamo project live demo link: [Live Demo](https://your-app.netlify.app)
+   Hedamo project live demo link: https://your-app.netlify.app
