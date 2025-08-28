@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "name": "Hedamo Organic Honey",
+    "image": "https://images.pexels.com/photos/1340116/pexels-photo-1340116.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Food",
+    "description": "Pure wild honey harvested from organic farms with natural sweetness and rich nutritional benefits.",
+    "features": ["100% Unprocessed", "Nutrient-rich", "Eco-friendly packaging", "Single-origin", "Raw & Natural"],
+    "nutrition": {
+      "calories": "70 per tbsp",
+      "sugar": "15g",
+      "protein": "0.1g",
+      "carbs": "17g",
+      "fiber": "0g"
+    },
+    "traceability": {
+      "origin": "Andhra Pradesh, India",
+      "batch": "HNY-2025-001",
+      "harvestDate": "January 2025",
+      "certification": "USDA Organic",
+      "farmer": "Krishna Collective"
+    },
+    "price": "₹499",
+    "originalPrice": "₹599",
+    "availability": "In Stock",
+    "reviews": [
+      {
+        "user": "Amit Kumar",
+        "rating": 5,
+        "comment": "Excellent quality honey! The taste is absolutely natural and pure. Worth every penny.",
+        "date": "2025-01-10"
+      },
+      {
+        "user": "Sanya Sharma",
+        "rating": 4,
+        "comment": "Tastes natural and pure. My kids love it on their morning toast.",
+        "date": "2025-01-08"
+      },
+      {
+        "user": "Raj Patel",
+        "rating": 5,
+        "comment": "Best honey I've ever tasted. You can really taste the difference from commercial honey.",
+        "date": "2025-01-05"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hedamo Premium Almonds",
+    "image": "https://images.pexels.com/photos/1295572/pexels-photo-1295572.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Nuts",
+    "description": "Premium quality almonds sourced directly from Kashmir valleys, packed with protein and healthy fats.",
+    "features": ["Kashmir Valley Origin", "High Protein", "Rich in Vitamin E", "Heart Healthy", "Premium Grade"],
+    "nutrition": {
+      "calories": "164 per ounce",
+      "protein": "6g",
+      "fat": "14g",
+      "carbs": "6g",
+      "fiber": "3.5g"
+    },
+    "traceability": {
+      "origin": "Kashmir Valley, India",
+      "batch": "ALM-2025-002",
+      "harvestDate": "September 2024",
+      "certification": "Organic India",
+      "farmer": "Valley Fresh Co-op"
+    },
+    "price": "₹899",
+    "originalPrice": "₹1099",
+    "availability": "In Stock",
+    "reviews": [
+      {
+        "user": "Priya Singh",
+        "rating": 5,
+        "comment": "These almonds are incredibly fresh and crunchy. Perfect for my morning smoothies!",
+        "date": "2025-01-12"
+      },
+      {
+        "user": "Vikram Joshi",
+        "rating": 4,
+        "comment": "Good quality almonds, slightly expensive but worth it for the premium quality.",
+        "date": "2025-01-09"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hedamo Cold-Pressed Coconut Oil",
+    "image": "https://images.pexels.com/photos/4022110/pexels-photo-4022110.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Oil",
+    "description": "Virgin coconut oil extracted using traditional cold-press methods, retaining all natural nutrients and aroma.",
+    "features": ["Cold-Pressed", "Virgin Quality", "Chemical-free", "Traditional Method", "Multi-purpose"],
+    "nutrition": {
+      "calories": "120 per tbsp",
+      "fat": "14g",
+      "saturatedFat": "12g",
+      "cholesterol": "0mg",
+      "sodium": "0mg"
+    },
+    "traceability": {
+      "origin": "Kerala, India",
+      "batch": "COO-2025-003",
+      "harvestDate": "December 2024",
+      "certification": "FSSAI Approved",
+      "farmer": "Coastal Coconut Farms"
+    },
+    "price": "₹349",
+    "originalPrice": "₹399",
+    "availability": "In Stock",
+    "reviews": [
+      {
+        "user": "Meera Nair",
+        "rating": 5,
+        "comment": "Amazing coconut oil! The aroma is so fresh and natural. Great for cooking and hair care.",
+        "date": "2025-01-11"
+      },
+      {
+        "user": "Arjun Menon",
+        "rating": 5,
+        "comment": "Pure and authentic coconut oil. Reminds me of my grandmother's homemade oil.",
+        "date": "2025-01-07"
+      }
+    ]
+  }
+]
