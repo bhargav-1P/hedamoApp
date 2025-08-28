@@ -6,7 +6,15 @@ export interface Product {
   description: string;
   features: string[];
   nutrition: {
-    [key: string]: string;
+    calories?: string;
+    sugar?: string;
+    protein?: string;
+    carbs?: string;
+    fiber?: string;
+    fat?: string;
+    saturatedFat?: string;
+    cholesterol?: string;
+    sodium?: string;
   };
   traceability: {
     origin: string;
